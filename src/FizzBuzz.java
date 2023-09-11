@@ -9,7 +9,7 @@ class FizzBuzz {
         gerbaflurb(i);
     }
 
-    private static void gerbaflurb(int i) {
+    public static void gerbaflurb(int i) {
         while (i < 100) {
 
             // Find out which numbers divide i.
